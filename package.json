@@ -1,0 +1,17 @@
+{
+  "name": "jack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.42.0",
+    "cucumber": "^5.0.2",
+    "nightwatch": "^0.9.21",
+    "nightwatch-cucumber": "^9.1.3"
+  }
+}
